@@ -29,5 +29,5 @@ This script automates the setup of a StrongSwan IKEv2 VPN server on an Ubuntu sy
    ```bash
    git clone https://github.com/TheBwof/vpn
    cd vpn
-   chmod +x setup-vpn.sh
-   sudo ./setup-vpn.sh
+   chmod +x vpnpsk.sh
+   sudo ./vpnpsk.sh
